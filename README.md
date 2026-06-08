@@ -7,6 +7,33 @@ Animated Portfolio Website is a modern, responsive single-page portfolio built f
 The portfolio highlights professional skills, featured projects, personal information, and includes a contact form with client-side validation.
 
 ---
+## Screenshots
+
+### Hero Section
+
+![Hero Section](./screenshots/hero.png)
+
+### About Section
+
+![About Section](./screenshots/about.png)
+
+### Skills Section
+
+![Skills Section](./screenshots/skills.png)
+
+### Projects Section
+
+![Projects Section](./screenshots/projects.png)
+
+### Contact Section
+
+![Contact Section](./screenshots/contact.png)
+
+### Mobile Responsive View
+
+![Mobile View](./screenshots/mobile-view.png)
+
+----
 
 ## Features
 
