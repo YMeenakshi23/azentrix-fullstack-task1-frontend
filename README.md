@@ -11,28 +11,27 @@ The portfolio highlights professional skills, featured projects, personal inform
 
 ### Hero Section
 
-![Hero Section](./screenshots/hero.png)
+![Hero Section](./src/assets/screenshots/hero.png)
 
 ### About Section
 
-![About Section](./screenshots/about.png)
+![About Section](./src/assets/screenshots/about.png)
 
 ### Skills Section
 
-![Skills Section](./screenshots/skills.png)
+![Skills Section](./src/assets/screenshots/skills.png)
 
 ### Projects Section
 
-![Projects Section](./screenshots/projects.png)
+![Projects Section](./src/assets/screenshots/projects.png)
 
 ### Contact Section
 
-![Contact Section](./screenshots/contact.png)
+![Contact Section](./src/assets/screenshots/contact.png)
 
 ### Mobile Responsive View
 
-![Mobile View](./screenshots/mobile-view.png)
-
+![Mobile View](./src/assets/screenshots/mobile-view.png)
 ----
 
 ## Features
