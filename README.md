@@ -1,16 +1,200 @@
-# React + Vite
+# Animated Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+Animated Portfolio Website is a modern, responsive single-page portfolio built for a fictional creative professional. The project showcases smooth animations, clean UI design, responsive layouts, and interactive user experiences using React, Tailwind CSS, and Framer Motion.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The portfolio highlights professional skills, featured projects, personal information, and includes a contact form with client-side validation.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- Responsive Hero Section
+- About Section
+- Skills Showcase
+- Featured Projects Section
+- Contact Form with Validation
+- Smooth Scroll Navigation
+- Modern UI Design
+- Framer Motion Animations
+- Mobile-Friendly Layout
+- Interactive Hover Effects
+- Fully Responsive Across Devices
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Technologies Used
+
+### Frontend
+
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+- JavaScript (ES6+)
+
+### Development Tools
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+## Project Structure
+
+```text
+animated-portfolio-website/
+│
+├── public/
+│
+├── src/
+│   ├── components/
+│   │   ├── Hero.jsx
+│   │   ├── About.jsx
+│   │   ├── Skills.jsx
+│   │   ├── Projects.jsx
+│   │   ├── Contact.jsx
+│   │   └── Navbar.jsx
+│   │
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── eslint.config.js
+├── .gitignore
+└── README.md
+```
+
+---
+
+## Animations Implemented
+
+- Fade-in animations
+- Slide-up animations
+- Slide-left animations
+- Slide-right animations
+- Hover scaling effects
+- Interactive button animations
+- Animated section transitions
+- Motion-based project cards
+
+Animations are implemented using Framer Motion to provide a smooth and engaging user experience.
+
+---
+
+## Contact Form Validation
+
+The contact form includes client-side validation for:
+
+- Empty Name Field
+- Empty Email Field
+- Empty Message Field
+- Invalid Email Format
+
+Validation feedback is displayed instantly to improve usability.
+
+---
+
+## Responsive Design
+
+The website is fully responsive and optimized for:
+
+- Mobile Devices
+- Tablets
+- Laptops
+- Desktop Screens
+
+Tailwind CSS utility classes are used to ensure consistent responsiveness across all screen sizes.
+
+---
+
+## Installation and Setup
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/YMeenakshi23/azentrix-fullstack-task1-frontend.git
+```
+
+### Navigate to Project Directory
+
+```bash
+cd azentrix-fullstack-task1-frontend
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start Development Server
+
+```bash
+npm run dev
+```
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+### Preview Production Build
+
+```bash
+npm run preview
+```
+
+---
+
+## Assignment Requirements Covered
+
+### Required Sections
+
+- Hero Section
+- About Section
+- Skills Section
+- Projects Section
+- Contact Section
+
+### Additional Requirements
+
+- Smooth Scroll Navigation
+- Meaningful Animations
+- Responsive Design
+- Client-Side Validation
+- Modern UI/UX Design
+
+---
+
+## Future Enhancements
+
+- Dark/Light Theme Toggle
+- Project Filtering
+- Download Resume Feature
+- Contact Form Backend Integration
+- Social Media Integration
+- Blog Section
+- Advanced Scroll Animations
+
+---
+
+## Author
+
+**Meenakshi Yakkala**
+
+Software Developer | Full Stack Developer
+
+GitHub: https://github.com/YMeenakshi23
+
+---
+
+## License
+
+This project was developed for educational and assessment purposes.
